@@ -1,3 +1,3 @@
 Makers:
 
-* Mihai - [Academy Fab Documentation](https://app.gitbook.com/@moglanmihai7/s/academy-fab-chisinau/)
+Mihai - [Fab Doc](https://app.gitbook.com/@moglanmihai7/s/academy-fab-chisinau/)
