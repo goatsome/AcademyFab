@@ -1,5 +1,6 @@
 Makers:
 
+* Artiom - [Fab Doc](https://evilpanda.gitbook.io/from-zero-2/)
 * Alexandru - [Fab Doc](https://github.com/AlexandruObada/FabLabChisinau)
 * Dan     - [Fab Doc](https://app.gitbook.com/@danila-morari/s/academy-fab-chisinau/)
 * Elena   - [Fab Doc](https://graur-lenka.gitbook.io/academy-fab-chisinau/)
