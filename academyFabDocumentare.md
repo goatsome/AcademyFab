@@ -1,10 +1,12 @@
 ## Makers:
 
 Artiom - [Fab Doc](https://evilpanda.gitbook.io/from-zero-2/)
-  * Proiect Final:\
+  * Proiect Final:
+
 Alexandru - [Fab Doc](https://github.com/AlexandruObada/FabLabChisinau)
   * Proiect Final:
-* Dan     - [Fab Doc](https://app.gitbook.com/@danila-morari/s/academy-fab-chisinau/)
+
+Dan     - [Fab Doc](https://app.gitbook.com/@danila-morari/s/academy-fab-chisinau/)
   * Proiect Final:
 * Elena   - [Fab Doc](https://graur-lenka.gitbook.io/academy-fab-chisinau/)
   * Proiect Final:
