@@ -1,7 +1,7 @@
 ## Makers:
 
 Artiom - [Fab Doc](https://evilpanda.gitbook.io/from-zero-2/)\
-Proiect Final:
+Proiect Final: Project Hidden - 
 
 Alexandru - [Fab Doc](https://github.com/AlexandruObada/FabLabChisinau)\
 Proiect Final:
